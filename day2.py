@@ -1,4 +1,3 @@
-import keyword
 # task 1
 name = "teja"
 age = 22
@@ -51,12 +50,3 @@ b = 20
 print(a, b)
 a,b = b,a  
 print(a, b)
-# task 9
-name = "teja"
-print(name)
-del name
-
-# task 10
-a = keyword.kwlist
-print(a)
-print(len(a))
