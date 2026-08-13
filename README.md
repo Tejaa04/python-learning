@@ -26,8 +26,8 @@ This repository documents my **day-by-day journey of learning Python**, from the
 | Day    | Topics Covered         |
 | ------ | ---------------------- |
 | Day 01 | Python basics          |
-| Day 02 | Variables & Data Types |
-| Day 03 | Conditional Statements |
+| Day 02 | Variables              |
+| Day 03 | Data types             |
 | Day 04 | Loops                  |
 | Day 05 | Functions              |
 | ...    | ...                    |
