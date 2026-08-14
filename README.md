@@ -39,16 +39,12 @@ This repository documents my **day-by-day journey of learning Python**, from the
 ```text
 Python-Learning/
 │
-├── Day-01/
-│   ├── basics.py
-│   └── practice.py
+├── Day-01.py
 │
-├── Day-02/
-│   ├── datatypes.py
-│   └── practice.py
+├── Day-02.py
 │
-├── Day-03/
-│   └── ...
+├── Day-03.py
+├──.......
 │
 └── README.md
 ```
