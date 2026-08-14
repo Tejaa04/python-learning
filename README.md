@@ -23,14 +23,14 @@ This repository documents my **day-by-day journey of learning Python**, from the
 
 ## 📅 Learning Progress
 
-| Day    | Topics Covered         |
-| ------ | ---------------------- |
-| Day 01 | Python basics          |
-| Day 02 | Variables              |
-| Day 03 | Data types             |
-| Day 04 | Loops                  |
-| Day 05 | Functions              |
-| ...    | ...                    |
+| Day    | Topics Covered            |
+| ------ | ----------------------    |
+| Day 01 | Print statements          |
+| Day 02 | Python basics             |
+| Day 03 | Data types                |
+| Day 04 | Operators                 |
+| Day 05 | String Methods            |
+| ...    | ...                       |
 
 > I will update this table as I continue learning.
 
