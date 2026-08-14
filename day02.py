@@ -27,10 +27,10 @@ At the beginning of the program, use multiple # lines to describe what the progr
 
 # task 5
 name = "teja"
-age = 22
+Age = 22
 height = 160
 is_student = True
-print(name, age, height, is_student)
+print(name, Age, height, is_student)
 
 # task 6
 name, age, city = "teja", 22, "vizag"
