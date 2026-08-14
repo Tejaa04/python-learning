@@ -1,6 +1,6 @@
 # int
-a = 20
-print(type(a))
+A = 20
+print(type(A))
 # float
 b = 17.05
 print(type(b))
