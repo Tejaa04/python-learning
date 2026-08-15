@@ -20,8 +20,10 @@ print(a.capitalize())   #Python is simple
 
 #count, startswith, endswith
 a = 'abacad'
+z = 'babcbd'
 b = a.startswith('a')
 c = a.startswith('ad')
+y = z.startswith('b')
 
 d = a.endswith('d')
 e = a.endswith('de')
@@ -34,6 +36,7 @@ print(d)       #True
 print(e)       #False
 print(f)       #3
 print(g)       #1
+print(y)        # True
 
 #Find and Index Methods
 s = 'abacada'
