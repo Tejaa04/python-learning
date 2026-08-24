@@ -86,7 +86,7 @@ print()
 #12. count z's and y's in a string
 s2 = "Python is a programming language and not easy. Zebra"
 count2 = 0
-target = "yz"
+target = "yYzZ"
 for i in s2:
     if i in target:
         count2 += 1
